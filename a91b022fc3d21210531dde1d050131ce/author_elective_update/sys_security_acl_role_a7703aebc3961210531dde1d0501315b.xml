@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 06:49:57</sys_created_on>
+        <sys_id>a7703aebc3961210531dde1d0501315b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1557362_easyappr_request.x_1557362_easyappr.request_user</sys_name>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_security_acl display_value="x_1557362_easyappr_request">2b703aebc3961210531dde1d05013156</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a7703aebc3961210531dde1d0501315b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 06:49:57</sys_updated_on>
+        <sys_user_role display_value="x_1557362_easyappr.request_user" name="x_1557362_easyappr.request_user">5b70f223c3961210531dde1d050131d5</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</application>
+        <file_path/>
+        <instance_id>d7f8ff8d1bcd069019254089bd4bcb5d</instance_id>
+        <instance_name>dev243950</instance_name>
+        <name>sys_security_acl_role_a7703aebc3961210531dde1d0501315b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-12 06:49:57</sys_created_on><sys_id>a7703aebc3961210531dde1d0501315b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1557362_easyappr_request.x_1557362_easyappr.request_user</sys_name><sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package><sys_policy/><sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope><sys_security_acl display_value="x_1557362_easyappr_request">2b703aebc3961210531dde1d05013156</sys_security_acl><sys_update_name>sys_security_acl_role_a7703aebc3961210531dde1d0501315b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-12 06:49:57</sys_updated_on><sys_user_role display_value="x_1557362_easyappr.request_user" name="x_1557362_easyappr.request_user">5b70f223c3961210531dde1d050131d5</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-2045235058</payload_hash>
+        <record_name>x_1557362_easyappr_request.x_1557362_easyappr.request_user</record_name>
+        <reverted_from/>
+        <source>291b022fc3d21210531dde1d050131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 06:49:57</sys_created_on>
+        <sys_id>e3703aebc3961210531dde1d0501316c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b9a1a1300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 06:49:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>a7703aebca961210be771ba14f971a6b</update_guid>
+        <update_guid_history>a7703aebca961210be771ba14f971a6b:-2045235058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1557362_easyappr_request.x_1557362_easyappr.request_user">4bf53ea3c3d61210531dde1d05013157</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 07:13:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>03e900e63fb54e7f804583c6c3f547b1</sys_id>
+        <sys_metadata>a7703aebc3961210531dde1d0501315b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1557362_easyappr_request.x_1557362_easyappr.request_user</sys_name>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_parent display_value="">2b703aebc3961210531dde1d05013156</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_scope_delete display_value="">0d0f080ae7bc4c0484198afbd6913f90</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_a7703aebc3961210531dde1d0501315b</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_a7703aebc3961210531dde1d0501315b">e3703aebc3961210531dde1d0501316c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 07:13:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

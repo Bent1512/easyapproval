@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="831cb2ebc3d61210531dde1d050131d7" label="Agent Setting" max_length="40" name="x_1557362_easyappr_agent_setting" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Agent ID" max_length="40" name="number" type="string"/>
+        <element label="Approver" max_length="32" name="approver" reference="sys_user" type="reference"/>
+        <element label="Group ID" mandatory="true" max_length="40" name="agent_group" reference="x_1557362_easyappr_agent_group_setting" reference_qual="numberISNOTEMPTY^EQ" reference_qual_condition="numberISNOTEMPTY^EQ" type="reference"/>
+        <index name="index">
+            <element name="approver"/>
+        </index>
+    </element>
+</database>
