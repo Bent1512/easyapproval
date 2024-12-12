@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Details" section_id="76bce32fc3da1210531dde1d050131a2" sys_domain="global" table="x_1557362_easyappr_request" version="3" view="By_Requester">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_details</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 11:13:08</sys_created_on>
+            <sys_id>3abce32fc3da1210531dde1d050131b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Details" display_value="Details" name="x_1557362_easyappr_request" sys_domain="global" view="6ebce32fc3da1210531dde1d0501312c">76bce32fc3da1210531dde1d050131a2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 11:13:08</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Details</caption>
+            <header>false</header>
+            <name>x_1557362_easyappr_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 11:13:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76bce32fc3da1210531dde1d050131a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1557362_easyappr_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+            <sys_update_name>sys_ui_section_76bce32fc3da1210531dde1d050131a2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 11:13:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="By Requester" name="By_Requester">6ebce32fc3da1210531dde1d0501312c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

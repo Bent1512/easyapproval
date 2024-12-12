@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1557362_easyappr.agent_setting_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>agent_setting_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 07:44:14</sys_created_on>
+        <sys_id>b2ec3eebc3d61210531dde1d050131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1557362_easyappr.agent_setting_user</sys_name>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_update_name>sys_user_role_b2ec3eebc3d61210531dde1d050131bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 07:44:14</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</application>
+        <file_path/>
+        <instance_id>d7f8ff8d1bcd069019254089bd4bcb5d</instance_id>
+        <instance_name>dev243950</instance_name>
+        <name>sys_user_role_b2ec3eebc3d61210531dde1d050131bb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1557362_easyappr.agent_setting_user</name><scoped_admin>false</scoped_admin><suffix>agent_setting_user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-12 07:44:14</sys_created_on><sys_id>b2ec3eebc3d61210531dde1d050131bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1557362_easyappr.agent_setting_user</sys_name><sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package><sys_policy/><sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope><sys_update_name>sys_user_role_b2ec3eebc3d61210531dde1d050131bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-12 07:44:14</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1644731891</payload_hash>
+        <record_name>x_1557362_easyappr.agent_setting_user</record_name>
+        <reverted_from/>
+        <source>291b022fc3d21210531dde1d050131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 07:44:14</sys_created_on>
+        <sys_id>3eec3eebc3d61210531dde1d050131bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193b9d353bf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 07:44:14</sys_updated_on>
+        <type>Role</type>
+        <update_guid>feec3eeb11d6121070a72da68c5f98be</update_guid>
+        <update_guid_history>feec3eeb11d6121070a72da68c5f98be:-1644731891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1557362_easyappr.agent_setting_user">5c857fe7c31e1210531dde1d05013113</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 11:51:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>a518b7035e4f4938a530b2cd652c1f79</sys_id>
+        <sys_metadata>b2ec3eebc3d61210531dde1d050131bb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1557362_easyappr.agent_setting_user</sys_name>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_scope_delete display_value="">0d0f080ae7bc4c0484198afbd6913f90</sys_scope_delete>
+        <sys_update_name>sys_user_role_b2ec3eebc3d61210531dde1d050131bb</sys_update_name>
+        <sys_update_version display_value="sys_user_role_b2ec3eebc3d61210531dde1d050131bb">3eec3eebc3d61210531dde1d050131bf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 11:51:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

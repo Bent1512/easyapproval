@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="27404c77c35e1210531dde1d05013149" sys_domain="global" table="x_1557362_easyappr_agent_group_setting" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 12:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f3404c77c35e1210531dde1d0501314c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1557362_easyappr_agent_group_setting" name="x_1557362_easyappr_agent_group_setting" sys_domain="global" view="Default view">27404c77c35e1210531dde1d05013149</sys_ui_form>
+            <sys_ui_section caption="Group Info" display_value="Group Info" name="x_1557362_easyappr_agent_group_setting" sys_domain="global" view="Default view">85958b6bc31a1210531dde1d05013169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 12:38:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 12:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf404c77c35e1210531dde1d0501314c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1557362_easyappr_agent_group_setting" name="x_1557362_easyappr_agent_group_setting" sys_domain="global" view="Default view">27404c77c35e1210531dde1d05013149</sys_ui_form>
+            <sys_ui_section caption="Agent Info" display_value="Agent Info" name="x_1557362_easyappr_agent_group_setting" sys_domain="global" view="Default view">ef400c77c35e1210531dde1d050131f0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 12:38:40</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1557362_easyappr_agent_group_setting</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 12:38:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>27404c77c35e1210531dde1d05013149</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1557362_easyappr_agent_group_setting</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+            <sys_update_name>sys_ui_form_sections_27404c77c35e1210531dde1d05013149</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 12:38:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

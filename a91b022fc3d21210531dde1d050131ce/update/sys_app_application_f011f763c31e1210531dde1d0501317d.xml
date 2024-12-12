@@ -5,25 +5,25 @@
         <description/>
         <device_type>browser</device_type>
         <hint/>
-        <name>Agent Setting</name>
+        <name/>
         <order>100</order>
-        <roles>x_1557362_easyappr.agent_setting_user</roles>
+        <roles>x_1557362_easyappr.admin,x_1557362_easyappr.approver,x_1557362_easyappr.requester</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-12-12 07:44:15</sys_created_on>
+        <sys_created_on>2024-12-12 11:32:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>c3ecf22fc3d61210531dde1d05013154</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Agent Setting</sys_name>
+        <sys_id>f011f763c31e1210531dde1d0501317d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>EasyApproval</sys_name>
         <sys_overrides/>
         <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
         <sys_policy/>
         <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
-        <sys_update_name>sys_app_application_c3ecf22fc3d61210531dde1d05013154</sys_update_name>
+        <sys_update_name>sys_app_application_f011f763c31e1210531dde1d0501317d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-12 07:44:15</sys_updated_on>
-        <title>Agent Setting</title>
+        <sys_updated_on>2024-12-12 11:36:19</sys_updated_on>
+        <title>EasyApproval</title>
         <view_name/>
     </sys_app_application>
 </record_update>

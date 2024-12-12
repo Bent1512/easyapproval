@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Agent Setting</name>
+        <order>100</order>
+        <roles>x_1557362_easyappr.agent_setting_user,x_1557362_easyappr.admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 07:44:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c3ecf22fc3d61210531dde1d05013154</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Agent Setting</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_update_name>sys_app_application_c3ecf22fc3d61210531dde1d05013154</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 11:01:53</sys_updated_on>
+        <title>Agent Setting</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</application>
+        <file_path/>
+        <instance_id>d7f8ff8d1bcd069019254089bd4bcb5d</instance_id>
+        <instance_name>dev243950</instance_name>
+        <name>sys_app_application_c3ecf22fc3d61210531dde1d05013154</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Agent Setting</name><order>100</order><roles>x_1557362_easyappr.agent_setting_user,x_1557362_easyappr.admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-12 07:44:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c3ecf22fc3d61210531dde1d05013154</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Agent Setting</sys_name><sys_overrides/><sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package><sys_policy/><sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope><sys_update_name>sys_app_application_c3ecf22fc3d61210531dde1d05013154</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-12 11:01:53</sys_updated_on><title>Agent Setting</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>598540388</payload_hash>
+        <record_name>Agent Setting</record_name>
+        <reverted_from/>
+        <source>ceaa0723c35a1210531dde1d05013185</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 11:01:53</sys_created_on>
+        <sys_id>352aef2bc3da1210531dde1d0501312b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193ba8845d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 11:01:53</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>b92aef2bfbda12100a6d4879f2ce862a</update_guid>
+        <update_guid_history>b92aef2bfbda12100a6d4879f2ce862a:598540388,07ecf22fc7d6121075e16ae9ddf31d56:498794993</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Agent Setting">36953ba3c31e1210531dde1d050131ea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 11:51:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>3216e4a4480e48688846c3d037e11ef9</sys_id>
+        <sys_metadata>c3ecf22fc3d61210531dde1d05013154</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Agent Setting</sys_name>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_scope_delete display_value="">0d0f080ae7bc4c0484198afbd6913f90</sys_scope_delete>
+        <sys_update_name>sys_app_application_c3ecf22fc3d61210531dde1d05013154</sys_update_name>
+        <sys_update_version display_value="sys_app_application_c3ecf22fc3d61210531dde1d05013154">352aef2bc3da1210531dde1d0501312b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 11:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

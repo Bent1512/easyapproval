@@ -2,7 +2,7 @@
     <element db_object_id="bf8dbe2fc3d61210531dde1d050131d9" label="Agent Group Setting" max_length="40" name="x_1557362_easyappr_agent_group_setting" type="collection">
         <element label="Agent01" mandatory="true" max_length="32" name="agent01" reference="sys_user" type="reference"/>
         <element label="Group Name" mandatory="true" max_length="100" name="group_name" type="string"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Group ID" mandatory="true" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Group ID" max_length="40" name="number" read_only="true" type="string"/>
         <element label="Agent02" max_length="32" name="agent02" reference="sys_user" type="reference"/>
         <element label="Agent03" max_length="32" name="agent03" reference="sys_user" type="reference"/>
         <index name="index">

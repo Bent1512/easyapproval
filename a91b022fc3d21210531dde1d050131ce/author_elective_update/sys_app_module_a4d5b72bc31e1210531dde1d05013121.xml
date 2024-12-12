@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="EasyApproval">f011f763c31e1210531dde1d0501317d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>List of all request records in the database.</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Request</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1557362_easyappr_request</name>
+        <order>100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1557362_easyappr.requester</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 11:55:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a4d5b72bc31e1210531dde1d05013121</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_update_name>sys_app_module_a4d5b72bc31e1210531dde1d05013121</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 11:55:20</sys_updated_on>
+        <timeline_page/>
+        <title>Request</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</application>
+        <file_path/>
+        <instance_id>d7f8ff8d1bcd069019254089bd4bcb5d</instance_id>
+        <instance_name>dev243950</instance_name>
+        <name>sys_app_module_a4d5b72bc31e1210531dde1d05013121</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="EasyApproval">f011f763c31e1210531dde1d0501317d</application><assessment/><device_type/><filter/><hint>List of all request records in the database.</hint><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Request</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1557362_easyappr_request</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_1557362_easyappr.requester</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-12-12 11:55:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a4d5b72bc31e1210531dde1d05013121</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request</sys_name><sys_overrides/><sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package><sys_policy/><sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope><sys_update_name>sys_app_module_a4d5b72bc31e1210531dde1d05013121</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-12-12 11:55:20</sys_updated_on><timeline_page/><title>Request</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1228242852</payload_hash>
+        <record_name>Request</record_name>
+        <reverted_from/>
+        <source>ceaa0723c35a1210531dde1d05013185</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 11:55:20</sys_created_on>
+        <sys_id>fc663fe7c31e1210531dde1d050131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193bab935d70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 11:55:20</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f0663fe7171e1210be6c6039e4da32b9</update_guid>
+        <update_guid_history>f0663fe7171e1210be6c6039e4da32b9:1228242852</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request">04d8b36bc31e1210531dde1d0501314a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-12-12 12:05:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>25a447e378844a988bf1d8c15e2b2c90</sys_id>
+        <sys_metadata>a4d5b72bc31e1210531dde1d05013121</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+        <sys_scope_delete display_value="">0d0f080ae7bc4c0484198afbd6913f90</sys_scope_delete>
+        <sys_update_name>sys_app_module_a4d5b72bc31e1210531dde1d05013121</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a4d5b72bc31e1210531dde1d05013121">fc663fe7c31e1210531dde1d050131b9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-12-12 12:05:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="397cafebc3da1210531dde1d0501310b" sys_domain="global" table="x_1557362_easyappr_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 11:11:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>357cafebc3da1210531dde1d0501310f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1557362_easyappr_request" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">397cafebc3da1210531dde1d0501310b</sys_ui_form>
+            <sys_ui_section caption="Basic Info" display_value="Basic Info" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">23b58b6bc31a1210531dde1d05013199</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 11:11:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 11:11:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>317cafebc3da1210531dde1d05013110</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1557362_easyappr_request" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">397cafebc3da1210531dde1d0501310b</sys_ui_form>
+            <sys_ui_section caption="Details" display_value="Details" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">797c6febc3da1210531dde1d050131a5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 11:11:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 11:11:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f57cafebc3da1210531dde1d05013113</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1557362_easyappr_request" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">397cafebc3da1210531dde1d0501310b</sys_ui_form>
+            <sys_ui_section caption="Approver &amp; Agent" display_value="Approver &amp; Agent" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">f57cafebc3da1210531dde1d0501310a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 11:11:59</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1557362_easyappr_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-12-12 11:11:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>397cafebc3da1210531dde1d0501310b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1557362_easyappr_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
+            <sys_update_name>sys_ui_form_sections_397cafebc3da1210531dde1d0501310b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-12-12 11:11:58</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
