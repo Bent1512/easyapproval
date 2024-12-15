@@ -4,13 +4,13 @@
             <element>approver</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-12 11:11:59</sys_created_on>
-            <sys_id>357cafebc3da1210531dde1d05013136</sys_id>
+            <sys_created_on>2024-12-13 01:14:03</sys_created_on>
+            <sys_id>303d22bfc3121210531dde1d0501311e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Approver &amp; Agent" display_value="Approver &amp; Agent" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">f57cafebc3da1210531dde1d0501310a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-12 11:11:59</sys_updated_on>
+            <sys_updated_on>2024-12-13 01:14:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,27 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-12 11:11:59</sys_created_on>
-            <sys_id>b97cafebc3da1210531dde1d05013136</sys_id>
+            <sys_created_on>2024-12-13 01:14:03</sys_created_on>
+            <sys_id>b43d22bfc3121210531dde1d0501311e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Approver &amp; Agent" display_value="Approver &amp; Agent" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">f57cafebc3da1210531dde1d0501310a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-12 11:11:59</sys_updated_on>
+            <sys_updated_on>2024-12-13 01:14:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>agent_group</element>
+            <element>agent</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-12-12 11:11:59</sys_created_on>
-            <sys_id>317cafebc3da1210531dde1d05013137</sys_id>
+            <sys_created_on>2024-12-13 01:14:03</sys_created_on>
+            <sys_id>3c3d22bfc3121210531dde1d0501311e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Approver &amp; Agent" display_value="Approver &amp; Agent" name="x_1557362_easyappr_request" sys_domain="global" view="Default view">f57cafebc3da1210531dde1d0501310a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-12-12 11:11:59</sys_updated_on>
+            <sys_updated_on>2024-12-13 01:14:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
