@@ -18,7 +18,7 @@
         <name>x_1557362_easyappr_request</name>
         <order>400</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>sysparm_view=pending_approval</query>
         <report/>
         <require_confirmation>true</require_confirmation>
         <roles>x_1557362_easyappr.approver</roles>
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>54282268c366d210531dde1d050131cf</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Pending Approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="EasyApproval" source="x_1557362_easyappr">a91b022fc3d21210531dde1d050131ce</sys_package>
@@ -36,11 +36,11 @@
         <sys_scope display_value="EasyApproval">a91b022fc3d21210531dde1d050131ce</sys_scope>
         <sys_update_name>sys_app_module_54282268c366d210531dde1d050131cf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-15 09:02:06</sys_updated_on>
+        <sys_updated_on>2024-12-16 04:57:30</sys_updated_on>
         <timeline_page/>
         <title>Pending Approval</title>
         <uncancelable>false</uncancelable>
-        <view_name>By Approver</view_name>
+        <view_name>pending_approval</view_name>
         <window_name/>
     </sys_app_module>
 </record_update>
